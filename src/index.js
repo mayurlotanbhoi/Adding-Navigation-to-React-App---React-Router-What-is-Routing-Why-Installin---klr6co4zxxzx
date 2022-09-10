@@ -1,11 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
-function generateCodeFromObject(obj){
-    //return a code generated string
-   }
+// function generateCodeFromObject(obj){
+//     //return a code generated string
+//     return obj
+//    }
    
-module.exports=generateCodeFromObject;
+// module.exports=generateCodeFromObject(<App/>);
 
 
-// ReactDOM.render(<App />, document.getElementById("root"));
+ReactDOM.render(<App/>, document.getElementById("root"));
