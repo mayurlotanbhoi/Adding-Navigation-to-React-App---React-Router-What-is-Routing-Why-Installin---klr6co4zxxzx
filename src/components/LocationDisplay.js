@@ -11,5 +11,4 @@ export const LocationDisplay = () => {
         );
 }
 
-
 // export default LocationDisplay;

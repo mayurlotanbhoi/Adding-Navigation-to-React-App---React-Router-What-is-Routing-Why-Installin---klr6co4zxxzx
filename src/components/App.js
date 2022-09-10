@@ -7,7 +7,6 @@ import {LocationDisplay} from "./LocationDisplay";
 
   function  App() {
 
-
         return(
             
             <div id="main">

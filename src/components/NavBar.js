@@ -7,7 +7,7 @@ import {PageNotFound} from './PageNotFound';
 export const NavBar = () => {
         return (
                 <>
-                
+         
                <nav>
                 <ul>
                         <li><NavLink to="/">home</NavLink></li>
