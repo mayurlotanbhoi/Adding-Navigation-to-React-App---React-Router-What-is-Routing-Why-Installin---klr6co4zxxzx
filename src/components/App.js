@@ -12,7 +12,7 @@ import {LocationDisplay} from "./LocationDisplay";
             
             <div id="main">
                {/* Do not remove the main div */}
-               
+            
                <BrowserRouter>
                <LocationDisplay/>
                <NavBar/>

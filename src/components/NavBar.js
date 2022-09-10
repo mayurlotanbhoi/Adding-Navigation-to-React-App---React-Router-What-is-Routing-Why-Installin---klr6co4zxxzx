@@ -14,7 +14,6 @@ export const NavBar = () => {
                         <li><NavLink to="/about">about</NavLink></li>
                 </ul>
                </nav>
-
                <Routes>
                 <Route path="/" element={<Home/>}></Route>
                 <Route path="/about" element={<About/>}></Route>
